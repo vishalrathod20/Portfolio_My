@@ -50,6 +50,6 @@ Please ensure that your contributions align with the project goals and follow an
 
 You can view my live portfolio website here:
 
-[Visit My Portfolio](https://vishalrathod20.github.io/Portfolio_me/)
+[Visit My Portfolio](https://vishalrathod20.github.io/Portfolio_My/)
 
 Explore my work, projects, and more directly from the website.
